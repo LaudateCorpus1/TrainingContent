@@ -39,7 +39,7 @@
     "@types/office-js": "^1.0.180",
     "@types/office-runtime": "^1.0.17",
     "acorn": "^8.5.0",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^8.3.0",
     "copy-webpack-plugin": "^9.0.1",
     "eslint-plugin-office-addins": "^2.0.0",
     "file-loader": "^6.2.0",
